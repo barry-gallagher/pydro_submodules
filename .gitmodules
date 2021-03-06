@@ -1,0 +1,3 @@
+[submodule "kluster"]
+	path = kluster
+	url = https://github.com/noaa-ocs-hydrography/kluster.git
