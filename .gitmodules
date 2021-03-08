@@ -1,3 +1,48 @@
-[submodule "kluster"]
-	path = kluster
-	url = https://github.com/noaa-ocs-hydrography/kluster.git
+[submodule "hstb_resources"]
+	path = hstb_resources
+	url = https://github.com/noaa-ocs-hydrography/hstb_resources.git
+	branch = master
+[submodule "hyo2_qc"]
+	path = hyo2_qc
+	url = https://github.com/hydroffice/hyo2_qc.git
+	branch = master
+[submodule "hyo2_soundspeed"]
+	path = hyo2_soundspeed
+	url = https://github.com/hydroffice/hyo2_soundspeed.git
+	branch = master
+[submodule "hyo2_bag"]
+	path = hyo2_bag
+	url = https://github.com/hydroffice/hyo2_bag.git
+	branch = master
+[submodule "hyo2_abc"]
+	path = hyo2_abc
+	url = https://github.com/hydroffice/hyo2_abc.git
+	branch = master
+[submodule "hyo2_kng"]
+	path = hyo2_kng
+	url = https://github.com/hydroffice/hyo2_kng.git
+	branch = master
+[submodule "hyo2_openbst"]
+	path = hyo2_openbst
+	url = https://github.com/hydroffice/hyo2_openbst.git
+	branch = master
+[submodule "hyo2_mate"]
+	path = hyo2_mate
+	url = https://github.com/hydroffice/hyo2_mate.git
+	branch = master
+[submodule "hyo2_bagexplorer"]
+	path = hyo2_bagexplorer
+	url = https://github.com/hydroffice/hyo2_bagexplorer.git
+	branch = master
+[submodule "hyo2_qax"]
+	path = hyo2_qax
+	url = https://github.com/hydroffice/hyo2_qax.git
+	branch = master
+[submodule "hstb_drivers"]
+	path = hstb_drivers
+	url = https://github.com/noaa-ocs-hydrography/drivers.git
+	branch = main
+[submodule "hstb_shared"]
+	path = hstb_shared
+	url = https://github.com/noaa-ocs-hydrography/shared.git
+	branch = main
